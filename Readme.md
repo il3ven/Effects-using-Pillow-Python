@@ -1,10 +1,10 @@
 # Create Effects using python Pillow (PIL Fork)
 
 ## Examples
-### Typing Effect
+### Typing Effect (Check typing_effect.py)
 ![GIF of typing effect](out/typing-effect.gif)
 
-### Noise Effect
+### Noise Effect (Check noise-effect.py)
 ![GIF of noise effect](out/noise-effect.gif)
 
 ## Tested On
